@@ -1,0 +1,19 @@
+[1.0.0_CLEANING] :
+	The folders and classes were renamed.
+	All subclasses were deleted and recreated in class.
+	
+[1.2.0_GAMEPLAY] :
+	It's now possible to drop 4 items correctly.
+	Adding sub area alignment.
+	Adding multiple StringBuilder.
+	Adding rights and restrictions for players, but need to make conditions !
+	Adding resources protector.
+	Now if wings the player loose 5% honor.
+	Honor system in getGE are cleaned and it's possible to loose honor.
+	Add Im packet if win or loose honor.
+	Map and players are refreshed at the activation or desactivation of the wings.
+	Adding start clip.
+	Correction of applyEffect149.
+	Animations of bread and beer work !
+	AI Thread removed.
+	Fix and adding more buffs.

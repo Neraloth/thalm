@@ -1,0 +1,39 @@
+[IDEA_RP] :
+	NPC Talk and NPC Follow : Npc move for quest or anything.
+	
+[REMOVE] :
+	Remove subclasses!
+	
+[MODIFY] :
+	Modify SHA-512 (use boolean for activate) and check the code.
+	Modify LOAD_MAPS for development mod, winning time of start for "developer".
+	
+[ADD] :
+	Add AI_Apply
+	Add world_actions.
+	Add lazy load for maps (and others but maps are first priority).
+	Add disconect/connect system in fight.
+	Add stringbuilder.
+	Add code for TODO
+	Add heroic mod.
+	Add subscribe system.
+	Add pets system.
+	Add obvijeans.
+	Add shigekax system.
+	Add prism and conquest system.
+	Add mount reproduction.
+	Add bandit system.
+	Add cell fight auto generation system.
+	Add start clip.
+	Add bin system.
+	Add npc exchange
+	Add etherated weapons.
+	Add knight.
+	Add quest.
+	Add new language(lua) for extern scripts.
+	Add plugin system.
+	Add rare monsters.
+	Add gift.
+	Add incarnam channel
+	Add breed system
+	Add prediction weapons
